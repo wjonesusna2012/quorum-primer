@@ -2,7 +2,7 @@
 
 ### Ganache Test Network
 
-Ganache can be used to experiment in an ethereum simulated, personal blockchain, the best ways to interact with the web3JS library. 
+Ganache can be used to experiment in an ethereum simulated, personal blockchain, and is a great way to familiarize yourself with the Web3 library. 
 
 ## Quorum Overview
 
