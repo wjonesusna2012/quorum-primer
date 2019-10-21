@@ -1,3 +1,17 @@
+## Quorum Overview
+
+### Recommended Readings
+
+https://github.com/jpmorganchase/quorum - a brief overview of quorum with links to more in-depth documentation.
+
+### Installation
+
+clone the quorum respository:
+
+sudo apt install git-all
+git clone https://github.com/jpmorganchase/quorum.git
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -77,6 +91,6 @@ As the size of your app grows, it is important to properly organize your files t
 
 There are many online resources for learning about ethereum which forms the basis of our quorum network. The best book on the subject is located here:
 
-Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood: https://github.com/ethereumbook/ethereumbook
+Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood: https://github.com/ethereumbook/ethereumbook. This book describes the ins and outs of ethereum based development. A pdf cannot be provided for licensing reasons but you are able to generate one for personal use using the ascii-docs or just read it within the browser.
 
 A remix compiler for generating and testing smart contracts: https://remix.ethereum.org/
