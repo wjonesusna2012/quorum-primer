@@ -13,8 +13,8 @@ git clone https://github.com/jpmorganchase/quorum.git
 
 ## App Creation
 
-npx create-react-app (app name)
-yarn add express
+npx create-react-app (app name) &&
+yarn add express &&
 yarn add react-router-dom
 
 ## Available Scripts
@@ -60,30 +60,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
 ## Additional Help
 
 ### File Management
@@ -100,8 +76,8 @@ A remix compiler for generating and testing smart contracts: https://remix.ether
 
 ### Ganache
 
-Ganahce, as part of the truffle suite, is essentially a personal blockchain that works to simulate the operation of a public blockchain. We have had limited success with ganache likely due to timing of callback functions being established in javascript and recommend integrating with dockerized version of the quorum network as soon as possible. 
+Ganahce, as part of the truffle suite, is essentially a personal blockchain that works to simulate the operation of a public blockchain. We have had limited success with ganache likely due to timing of callback functions being established in javascript and recommend integrating with dockerized version of the quorum network as soon as possible. For initial development, however, ganache serves a purpose. Ganache can be installed from the CLI here: https://github.com/trufflesuite/ganache-cli
 
 ### Truffle
 
-Truffle is a a series of tools that aid in ethereum blockchain development and are also suitable for working with a quorum based network. The truffle compiler is particularly useful for building smart contract bytecode and generating ABI.
+Truffle is a a series of tools that aid in ethereum blockchain development and are also suitable for working with a quorum based network. The truffle compiler is particularly useful for building smart contract bytecode and generating ABI. https://www.trufflesuite.com/
