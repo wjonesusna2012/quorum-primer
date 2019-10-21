@@ -72,3 +72,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### File Management
 
 As the size of your app grows, it is important to properly organize your files to keep components readily accessible and ready for use. We recommend using re-ducks as a file management scheme. As an added bonus, this works very well with structuring an app around using the de-facto standard for state storage- redux. https://github.com/alexnm/re-ducks
+
+### Learning About Ethereum
+
+There are many online resources for learning about ethereum which forms the basis of our quorum network. The best book on the subject is located here:
+
+Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood: https://github.com/ethereumbook/ethereumbook
+
+A remix compiler for generating and testing smart contracts: https://remix.ethereum.org/
