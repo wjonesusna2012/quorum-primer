@@ -11,8 +11,11 @@ clone the quorum respository:
 sudo apt install git-all
 git clone https://github.com/jpmorganchase/quorum.git
 
+## App Creation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npx create-react-app (app name)
+yarn add express
+yarn add react-router-dom
 
 ## Available Scripts
 
