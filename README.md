@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Additional Help
+
+### File Management
+
+As the size of your app grows, it is important to properly organize your files to keep components readily accessible and ready for use. We recommend using re-ducks as a file management scheme. As an added bonus, this works very well with structuring an app around using the de-facto standard for state storage- redux. https://github.com/alexnm/re-ducks
