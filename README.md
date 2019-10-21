@@ -94,3 +94,7 @@ There are many online resources for learning about ethereum which forms the basi
 Mastering Ethereum by Andreas M. Antonopoulos and Gavin Wood: https://github.com/ethereumbook/ethereumbook. This book describes the ins and outs of ethereum based development. A pdf cannot be provided for licensing reasons but you are able to generate one for personal use using the ascii-docs or just read it within the browser.
 
 A remix compiler for generating and testing smart contracts: https://remix.ethereum.org/
+
+### Ganache
+
+Ganahce is essentially a personal blockchain that works to simulate the operation of a public blockchain. We have had limited success with ganache likely due to timing of callback functions being established in javascript and recommend integrating with dockerized version of the quorum network as soon as possible. 
