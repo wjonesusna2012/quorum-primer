@@ -1,3 +1,9 @@
+## General Workflow
+
+### Ganache Test Network
+
+Ganache can be used to experiment in an ethereum simulated, personal blockchain, the best ways to interact with the web3JS library. 
+
 ## Quorum Overview
 
 ### Recommended Readings
